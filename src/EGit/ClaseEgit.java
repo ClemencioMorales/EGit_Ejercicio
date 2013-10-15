@@ -10,7 +10,7 @@ public class ClaseEgit {
 	
 	
 	public void m6(){}
-	public void m7(){}
+	public void m7(){}//Se solucionó el bug
 	//c3
 	//c4
 }
