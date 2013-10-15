@@ -3,6 +3,6 @@ package EGit;
 public class ClaseEgit {
 	public void m1(){}
 	
-	private void m2(){}
-
+	public void m2(){}
+	public void m3(){}
 }
